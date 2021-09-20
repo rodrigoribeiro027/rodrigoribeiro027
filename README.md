@@ -5,7 +5,7 @@
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 - 👨‍🎓 Estudante de Programação.
 - 🎯 Interesse:  HTML, CSS,Python,brModelo-banco de dados [por enquanto].
-- 🎮 Gosta de jogar cs:go? É só chamar, vamos subir de patente juntos ou não hehehe
+- 🎮 [Nas horas vagas] Gosta de jogar cs:go? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
 ## Skills :nerd_face:
