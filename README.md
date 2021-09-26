@@ -1,7 +1,8 @@
+<br id="topo">
 ### Olá, eu sou o Rodrigo! 👋
 
 ### Sobre mim
-<br id="topo">
+
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 - 👨‍🎓 Estudante de Programação.
 - 🎯 Interesse:  HTML, CSS,Python,brModelo-banco de dados [por enquanto].
