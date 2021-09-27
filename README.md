@@ -1,4 +1,3 @@
-<br id="topo">
 ### Olá, eu sou o Rodrigo! 👋
 
 ### Sobre mim
@@ -44,9 +43,3 @@
 
 </p>
 
-<div align="center">
-
-  → [Voltar ao topo](#topo)  
-
-
-</div>
