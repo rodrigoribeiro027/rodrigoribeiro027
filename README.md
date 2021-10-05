@@ -4,11 +4,13 @@
 
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 - 👨‍🎓 Estudante de Programação.
-- 🎯 Interesse:  HTML, CSS,Python,brModelo-banco de dados [por enquanto].
-- 🎮 [Nas horas vagas] Gosta de jogar cs:go? É só chamar, vamos subir de patente juntos ou não hehehe
 
-
-
+<div align="center">
+  <a href="https://github.com/rodrigoribeiro027">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
   
   ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
  
@@ -17,12 +19,9 @@
 
 
 
-## Skills :nerd_face:
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </p>
+
+
+  
   
   <p align="center"> 
 
