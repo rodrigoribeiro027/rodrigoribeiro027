@@ -8,11 +8,11 @@
 - 🎮 [Nas horas vagas] Gosta de jogar cs:go? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
-</div>
+
   
   ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
 
 
