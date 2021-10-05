@@ -15,12 +15,6 @@
   ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
  
 
-
-
-
-
-
-
   
   
   <p align="center"> 
