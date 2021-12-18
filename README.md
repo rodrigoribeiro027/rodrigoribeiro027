@@ -1,9 +1,10 @@
-### Olá, eu sou o Rodrigo! 👋
+### Olá, eu sou o Rodrigo! - Hi, I'm Rodrigo! 👋
 
-### Sobre mim
+### Sobre mim - About me
 
-- 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
-- 👨‍🎓 Estudante de Programação.
+
+- 👨‍💻 Atualmente cursando (currently attending) Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
+- 👨‍🎓 Estudante de Programação - programming student.
 
 <div align="center">
   <a href="https://github.com/rodrigoribeiro027">
@@ -38,7 +39,7 @@
 
 <p align="center"> 
   
-  ## Total de Visitas no perfil :detective: <br>
+  ## Total de Visitas no perfil - Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/rodrigoribeiro027/count.svg" />
  </p>
