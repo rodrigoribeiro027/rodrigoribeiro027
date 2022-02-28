@@ -5,6 +5,7 @@
 
 - 👨‍💻 Atualmente cursando (currently attending) Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 - 👨‍🎓 Estudante de Programação - programming student.
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">Linkedin</a>
 
 
 
