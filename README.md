@@ -6,17 +6,15 @@
 - 👨‍💻 Atualmente cursando (currently attending) Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 - 👨‍🎓 Estudante de Programação - programming student.
 
-<div align="center">
-  <a href="https://github.com/rodrigoribeiro027">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  
-  ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
- 
 
-  
+
+<div>
+  <a href="https://github.com/gothmate">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=16&theme=dark"/>
+</div>
+ 
+  ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
   
   <p align="center"> 
 
