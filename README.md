@@ -2,8 +2,6 @@
 
 <img align="leaft" alt="Gif" height="300" width="1080" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-
-
 ### Sobre mim  
 
 
@@ -13,6 +11,7 @@
 <details>
   <br />
    <summary><b>🖥️ DevSetup</b></summary>
+   	<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" align="end" width="120"> 
   	<ul>
   	  <li><b>Placa Mãe:</b> IPMH110 PRO LGA1151 DDR4</li>
   	  <li><b>Processador: </b>Intel G4560 Pentium 3,5 GHz</li>
@@ -22,12 +21,16 @@
 	    <li><b>HD:</b> 1 Tb Barracuda</li>
       <li><b>Para ficar atualizado: Linkedin, Youtube.</li>
 	</ul>	
+	
 </details>
 
 
 
 ###  ⚙️ Algumas Ferramenta e Tecnologia que utilizo:     
 
+
+![Html](https://img.shields.io/badge/Html-E44C30?style=for-the-badge&logo=Html&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%2300f.svg?style=for-the-badge&logo=Css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/typescript-0078D4?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,18 +42,12 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
-<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="120"> 
-	  
- </div>
-  
 
-  <div align="leaft">
-
-
+##
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoribeiro027&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoribeiro027&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em"         src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoribeiro027&theme=radical&hide_border=true"/>
  
   ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
   
