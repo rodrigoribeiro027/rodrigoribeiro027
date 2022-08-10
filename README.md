@@ -26,7 +26,7 @@
 
 
 
-###  ⚙️ Algumas Ferramenta e Tecnologia que utilizo:     
+###  ⚙️ Algumas Ferramentas e Tecnologias que utilizo:     
 
 
 ![Html](https://img.shields.io/badge/Html-E44C30?style=for-the-badge&logo=Html&logoColor=white)
