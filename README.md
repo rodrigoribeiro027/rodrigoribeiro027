@@ -15,10 +15,11 @@
   	<ul>
   	  <li><b>Placa Mãe:</b> IPMH110 PRO LGA1151 DDR4</li>
   	  <li><b>Processador: </b>Intel G4560 Pentium 3,5 GHz</li>
-      <li><b>Memoria: </b> 8 GB 2666 MHz DDR4</li>
+      <li><b>Memoria: </b> 16 GB 2666 MHz DDR4</li>
 	    <li><b>Placa de Video: </b>GTX 1050 2G OC DDR5 Galax</li>
       <li><b>Fonte:</b> 500w Bluecase PFC</li>
 	    <li><b>HD:</b> 1 Tb Barracuda</li>
+		<li><b>Ssd:</b> 240 gb</li>
       <li><b>Para ficar atualizado: Linkedin, Youtube.</li>
 	</ul>	
 	
