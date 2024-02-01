@@ -1,6 +1,6 @@
 ## Olá, Meu nome é Rodrigo 👋
 
-<img align="leaft" alt="Gif" height="300" width="1080" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+
 
 ### Sobre mim  
 
@@ -49,8 +49,6 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
  
-  ![Snake animation](https://github.com/rodrigoribeiro027/rodrigoribeiro027/blob/output/github-contribution-grid-snake.svg)
-  
   <p align="center"> 
 
  
