@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
-- 👨‍🎓 Estudante de Programação.
+- 👨‍🎓 <a href="https://portfolio-ui-nine.vercel.app/">Portfolio Pessoal</a> .
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">Linkedin</a>
 <details>
   <br />
