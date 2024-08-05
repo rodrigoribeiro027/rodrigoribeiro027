@@ -47,7 +47,7 @@
 ##
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
+ <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
  
   <p align="center"> 
 
