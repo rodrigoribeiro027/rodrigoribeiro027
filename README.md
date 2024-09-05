@@ -5,7 +5,7 @@
 ### Sobre mim  
 
 
-- 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
+- 👨‍💻 Atualmente Formando em Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
 - 👨‍🎓 <a href="https://portfolio-ui-nine.vercel.app/">Portfolio Pessoal</a> .
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">Linkedin</a>
 <details>
@@ -25,34 +25,20 @@
 	
 </details>
 
-
-
-###  ⚙️ Algumas Ferramentas e Tecnologias que utilizo:     
-
-
-![Html](https://img.shields.io/badge/Html-E44C30?style=for-the-badge&logo=Html&logoColor=white)
-![Css](https://img.shields.io/badge/Css-%2300f.svg?style=for-the-badge&logo=Css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Typescript](https://img.shields.io/badge/typescript-0078D4?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2300f.svg?style=for-the-badge&logo=React&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-
-
 ##
 
 <div align="center">
- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
- 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<div align="center">
+  <a href="http://www.github.com/rodrigoribeiro027"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=rodrigoribeiro027&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/rodrigoribeiro027"><img width="35.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoribeiro027&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</div>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=rodrigoribeiro027&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
   <p align="center"> 
 
  
-  ## Contato :iphone:
+  ## Contatos :iphone:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">
