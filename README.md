@@ -1,13 +1,23 @@
-## Olá, Meu nome é Rodrigo 👋
-
+<div>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+RodrigoRibeiro;+I'm+A+Developer+🎲;+Open+To+Any+Questions+💬;+Loves+To+Build+Projects+✨;Continuously+Improving+📈;">
+  </p> 
+  
+</div>
 
 
 ### Sobre mim  
 
-
-- 👨‍💻 Atualmente Formando em Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
-- 👨‍🎓 <a href="https://portfolio-ui-nine.vercel.app/">Portfolio Pessoal</a> .
-- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/">Linkedin</a>
+<ul > 
+	<li>👨‍💻 Atualmente Formando em Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.</li>
+	<li>👨‍🎓 <a href="https://portfolio-ui-nine.vercel.app/">Portfolio Pessoal</a> </li>
+      <li>Sou apaixonado por aprender coisas novas 🔍</li> 
+      <li>Atualmente estou trabalhando para causar um grande impacto 💼</li> 
+      <li>Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar 💬</li> 
+      <li>Interessado em colaborar com outros desenvolvedores 🤝</li> 
+      <li>Sou excelente em resolver problemas e valorizo ​​o crescimento pessoal 🌱</li> 
+      <li>Gosto de jogos 🎮, exercícios 💪, leitura 📚, e codificação 💻!</li> 
+    </ul> 
 <details>
   <br />
    <summary><b>🖥️ DevSetup</b></summary>
