@@ -59,7 +59,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigo.rsantos40@gmail.com">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/rodrigodrsantos/">
+    <a href="https://www.instagram.com/rodrigoxribeiro/">
         <img  src="https://img.shields.io/badge/instagram-%23100000.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/rodrigodrsantos/">
     </a>
     
