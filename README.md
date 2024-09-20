@@ -24,7 +24,7 @@
    	<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" align="end" width="120"> 
   	<ul>
   	  <li><b>Placa Mãe:</b> IPMH110 PRO LGA1151 DDR4</li>
-  	  <li><b>Processador: </b>Intel G4560 Pentium 3,5 GHz</li>
+  	  <li><b>Processador: </b>Intel Core I5-7400 3.5ghz</li>
       <li><b>Memoria: </b> 16 GB 2666 MHz DDR4</li>
 	    <li><b>Placa de Video: </b>GTX 1050 2G OC DDR5 Galax</li>
       <li><b>Fonte:</b> 500w Bluecase PFC</li>
