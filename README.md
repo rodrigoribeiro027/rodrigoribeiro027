@@ -26,7 +26,7 @@
   	  <li><b>Placa Mãe:</b> IPMH110 PRO LGA1151 DDR4</li>
   	  <li><b>Processador: </b>Intel Core I5-7400 3.5ghz</li>
       <li><b>Memoria: </b> 16 GB 2666 MHz DDR4</li>
-	    <li><b>Placa de Video: </b>GTX 1050 2G OC DDR5 Galax</li>
+	    <li><b>Placa de Video: </b>gtx 1650 ex plus 1click oc 4gb ddr6 128bits</li>
       <li><b>Fonte:</b> 500w Bluecase PFC</li>
 	    <li><b>HD:</b> 1 Tb Barracuda</li>
 		<li><b>Ssd:</b> 240 gb</li>
